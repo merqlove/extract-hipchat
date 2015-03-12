@@ -11,6 +11,5 @@
   "devDependencies": {
     "source-map":"latest",
     "grunt": "^0.4.5",
-    "grunt-map-split": "0.0.3"
   }
 }
