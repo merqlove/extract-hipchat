@@ -1,0 +1,16 @@
+{
+  "name": "hipchatsrc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "source-map":"latest",
+    "grunt": "^0.4.5",
+    "grunt-map-split": "0.0.3"
+  }
+}
